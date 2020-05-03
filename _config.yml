@@ -1,22 +1,21 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Ataz Labs
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Web security consulting
 
 # Your name to show in the footer
-author: Some Person
+author: Ataz Labs
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  
 
 # --- Logo --- #
 
@@ -39,24 +38,21 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: azizjon
+  github: atazor
+  twitter: azizjon
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
+#  linkedin:
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
+#  stackoverflow:
+#  snapchat:
+#  instagram:
+#  youtube: user/
+#  spotify:
+#  telephone:
+#  steam:
+
 
 # --- General options --- #
 
@@ -68,7 +64,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "atazor.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -141,7 +137,7 @@ footer-link-col: "#404040"
 # in the "siteKey" and "secret" parameters below and also in `staticman.yml`.
 # See more details at https://staticman.net/
 #staticman:
-#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+repository :  GitHub "atazor"
 #  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
 #  endpoint   : # URL of your own deployment, with a trailing slash (will fallback to a public GitLab instance) eg. https://<your-api>/v3/entry/github/
 #  reCaptcha:
@@ -205,6 +201,3 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
