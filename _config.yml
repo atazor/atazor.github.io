@@ -16,7 +16,7 @@ navbar-links:
   Services:
   Contact:
   Resources:
-    - Hacking: "hacking"
+    - Hacking: "hacking.md"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
 
