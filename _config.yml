@@ -12,11 +12,10 @@ author: Ataz Labs
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Us: "aboutus"
-  Services:
+  About: "aboutme"
+  Hacking: "hacking"
   Contact:
   Resources:
-    - Hacking: "hacking.md"
     - Learn markdown: "https://www.markdowntutorial.com/"
 
 
