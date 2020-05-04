@@ -1,0 +1,7 @@
+## Hacking
+What is hacking?
+Hacking refers to activities that seek to compromise digital devices, such as computers, smartphones, tablets, and even entire networks. And while hacking might not always be for malicious purposes, nowadays most references to hacking, and hackers, characterize it/them as unlawful activity by cybercriminals—motivated by financial gain, protest, information gathering (spying), and even just for the “fun” of the challenge.
+
+Many think that “hacker” refers to some self-taught whiz kid or rogue programmer skilled at modifying computer hardware or software so it can be used in ways outside the original developers' intent. But this is a narrow view that doesn't begin to encompass the wide range of reasons why someone turns to hacking. (For an in-depth look at hackers, read “Under the hoodie: why money, power, and ego drive hackers to cybercrime” by Wendy Zamora.)
+
+Hacking is typically technical in nature (like creating malvertising that deposits malware in a drive-by attack requiring no user interaction). But hackers can also use psychology to trick the user into clicking on a malicious attachment or providing personal data. These tactics are referred to as “social engineering.”
