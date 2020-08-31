@@ -1,5 +1,6 @@
 #### Cybersecurity
-I became interested in cybersecurity in 2018. Prior to that, I learned a little bit of web development. In the last three years, I have been working to become an expert in cyber threat hunting. 
+I became interested in cybersecurity in 2018. I started doing web development in 2003. My first job after graduate school was working as a technical producer for a web company. Over years, I developed a strong passion for cybersecurity. It took me a few years to get a job in cybersecurity. A new developing field in cybersecurity is cyber threat hunting which is defined below.
+ 
 #### What is cyber threat hunting?
 "The process of proactively and iteratively searching through networks to detect and isolate advanced threats that evade existing security solutions."
 The SANS Institute authors expand on the cyber threat hunting process, calling it an active defense strategy consisting of:
